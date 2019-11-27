@@ -1,0 +1,12 @@
+//First Array Program
+
+#include <iostream>
+#include <string>
+using namespace std;
+
+int main() {
+  string cars[4] = {"Suzuki", "Honda", "FAW", "United"};
+  cout << cars[3];
+  return 0;
+}
+
